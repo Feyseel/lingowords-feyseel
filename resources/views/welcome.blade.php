@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Lingowords by Feyseel!!!!
+                    Lingowords by Feyseel
                 </div>
             </div>
         </div>
